@@ -13,3 +13,6 @@ PLiSI-s3 sub-dataset: This sub-dataset consists of 2,400 pairs of stereo edge ma
 ## Example images from the synthetic sub-dataset
 ![Alt text](example_synthetic.png)
 
+## Download our dataset
+
+Kaggle[[kaggle]](https://www.kaggle.com/datasets/jiechunchen/plisi-dataset)
